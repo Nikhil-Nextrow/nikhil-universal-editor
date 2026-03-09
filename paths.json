@@ -1,8 +1,11 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/nikhil-universal-editor/:/",
+    "/content/nikhil-universal-editor/configuration:/.helix/config.json",
+    "/content/nikhil-universal-editor/metadata:/metadata.json",
+    "/content/nikhil-universal-editor/component-filters:/component-filters.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/nikhil-universal-editor/"
   ]
 }
