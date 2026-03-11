@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://github.com/Nikhil-Nextrow/nikhil-universal-editor/main"
+    url: "https://github.com/Nikhil-Nextrow/nikhil-universal-editor/tree/main"
     type: "markup"
     suffix: ".html"
